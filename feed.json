@@ -9,44 +9,5 @@
         "name": "Art ifishal"
     },
     "items": [
-        {
-            "id": "https://sponsoredby.github.io/smoothies-juice/anti-flame-forest-smoothie.html",
-            "url": "https://sponsoredby.github.io/smoothies-juice/anti-flame-forest-smoothie.html",
-            "title": "Cool Citrus Fire",
-            "content_html": "<p>\n<script type=\"application/ld+json\">\n\t\t{\n\t\t\t\"@context\": \"https://schema.org\",\n\t\t\t\"@type\": \"Recipe\",\n\t\t\t\"name\": \"Cool Citrus Fire\",\n\t\t\t\"author\": {\n\t\t\t\t\"@type\": \"Person\",\n\t\t\t\t\"name\": \"ChatGPT\"\n\t\t\t},\n\t\t\t\"description\": \"A post-workout antioxidant juice blended with frozen peppers and citrus for immune, skin, and adrenal support.\",\n\t\t\t\"recipeYield\": \"1 serving\",\n\t\t\t\"prepTime\": \"PT6M\",\n\t\t\t\"totalTime\": \"PT6M\",\n\t\t\t\"recipeCategory\": \"Juice\",\n\t\t\t\"recipeCuisine\": \"Health\",\n\t\t\t\"keywords\": \"vitamin C, frozen pepper, citrus juice, anti-inflammatory, immune support\",\n\t\t\t\"recipeIngredient\": [\n\t\t\t\t\"Juiced: 2 oranges (about 150ml)\",\n\t\t\t\t\"Juiced: 1 medium carrot\",\n\t\t\t\t\"Juiced: ½ cucumber\",\n\t\t\t\t\"Juiced: small chunk of fresh ginger (or ¼ tsp powdered ginger)\",\n\t\t\t\t\"Juiced: 1 small beetroot (vacuum-packed)\",\n\t\t\t\t\"Blended: 100g frozen mixed peppers\",\n\t\t\t\t\"Blended: 1 cube frozen spinach\",\n\t\t\t\t\"Optional: 1 tsp hemp protein powder or greens powder (e.g. Applied Critical Greens)\"\n\t\t\t],\n\t\t\t\"recipeInstructions\": [{\n\t\t\t\t\t\"@type\": \"HowToStep\",\n\t\t\t\t\t\"text\": \"Juice oranges, carrot, cucumber, ginger, and beetroot.\"\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\t\"@type\": \"HowToStep\",\n\t\t\t\t\t\"text\": \"Pour juice into NutriBullet with frozen peppers and spinach cube.\"\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\t\"@type\": \"HowToStep\",\n\t\t\t\t\t\"text\": \"Add greens powder or hemp protein if using.\"\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\t\"@type\": \"HowToStep\",\n\t\t\t\t\t\"text\": \"Blend for 30 seconds until frothy and smooth.\"\n\t\t\t\t}\n\t\t\t],\n\t\t\t\"nutrition\": {\n\t\t\t\t\"@type\": \"NutritionInformation\",\n\t\t\t\t\"calories\": \"130 kcal\",\n\t\t\t\t\"proteinContent\": \"3 g\",\n\t\t\t\t\"fatContent\": \"0.5 g\",\n\t\t\t\t\"carbohydrateContent\": \"27 g\"\n\t\t\t}\n\t\t}\n\t</script>\n</p>\n<h1>Cool Citrus Fire</h1>\n<p class=\"note\">A zesty <span class=\"highlight\">post-hike booster</span> that blends citrus + frozen peppers for a potent, antioxidant-loaded refreshment.</p>\n<h2 class=\"section-title\">Ingredients</h2>\n<ul>\n<li>Juiced: 2 oranges (about 150ml)</li>\n<li>Juiced: 1 medium carrot</li>\n<li>Juiced: ½ cucumber</li>\n<li>Juiced: small chunk of fresh ginger (or ¼ tsp powdered ginger)</li>\n<li>Juiced: 1 small beetroot (vacuum-packed)</li>\n<li>Blended: 100g frozen mixed peppers</li>\n<li>Blended: 1 cube frozen spinach</li>\n<li><em>Optional:</em> 1 tsp hemp protein powder or Applied Critical Greens powder</li>\n</ul>\n<h2 class=\"section-title\">Instructions</h2>\n<ul>\n<li>Juice the oranges, carrot, cucumber, ginger, and beetroot.</li>\n<li>Add the juice to your NutriBullet with the frozen peppers and spinach cube.</li>\n<li>Add hemp or greens powder (if using).</li>\n<li>Blend for 30 seconds until fully smooth and frothy.</li>\n</ul>\n<h2 class=\"section-title\">Nutritional Highlights</h2>\n<ul>\n<li><strong>Calories:</strong> ~130 kcal</li>\n<li><strong>Protein:</strong> 3g</li>\n<li><strong>Carbohydrates:</strong> 27g</li>\n<li><strong>Fat:</strong> 0.5g</li>\n<li><strong>Micros:</strong> High in Vitamin C, A, K, and Potassium</li>\n<li><strong>Actions:</strong> Anti-inflammatory, Immune-boosting, Skin health, Iron absorption support</li>\n</ul>",
-            "author": {
-                "name": "Art ifishal"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-07T16:17:07+01:00",
-            "date_modified": "2025-06-07T16:21:24+01:00"
-        },
-        {
-            "id": "https://sponsoredby.github.io/smoothies-juice/recipe-1-power-pepper-recovery.html",
-            "url": "https://sponsoredby.github.io/smoothies-juice/recipe-1-power-pepper-recovery.html",
-            "title": " Recipe 1: Power Pepper Recovery",
-            "content_html": "<p>\n<script type=\"application/ld+json\">\n\t\t{\n\t\t\t\"@context\": \"https://schema.org\",\n\t\t\t\"@type\": \"Recipe\",\n\t\t\t\"name\": \"Power Pepper Recovery\",\n\t\t\t\"author\": {\n\t\t\t\t\"@type\": \"Person\",\n\t\t\t\t\"name\": \"ChatGPT\"\n\t\t\t},\n\t\t\t\"description\": \"Anti-inflammatory smoothie designed to help use up frozen peppers. Great for post-workout recovery and rich in antioxidants.\",\n\t\t\t\"recipeYield\": \"1 serving\",\n\t\t\t\"prepTime\": \"PT5M\",\n\t\t\t\"totalTime\": \"PT5M\",\n\t\t\t\"recipeCategory\": \"Smoothie\",\n\t\t\t\"recipeCuisine\": \"Health\",\n\t\t\t\"keywords\": \"antioxidant, post-workout, smoothie, frozen peppers\",\n\t\t\t\"recipeIngredient\": [\n\t\t\t\t\"100g frozen mixed peppers\",\n\t\t\t\t\"1 frozen banana\",\n\t\t\t\t\"75g frozen mango or pineapple\",\n\t\t\t\t\"1 cube frozen spinach\",\n\t\t\t\t\"200ml cooled nettle tea\",\n\t\t\t\t\"1 tsp hemp protein powder\",\n\t\t\t\t\"½ tsp cinnamon\",\n\t\t\t\t\"1 tsp cacao powder\",\n\t\t\t\t\"Optional: 1 medjool date\"\n\t\t\t],\n\t\t\t\"recipeInstructions\": [{\n\t\t\t\t\t\"@type\": \"HowToStep\",\n\t\t\t\t\t\"text\": \"Brew nettle tea and let it cool.\"\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\t\"@type\": \"HowToStep\",\n\t\t\t\t\t\"text\": \"Add all ingredients to your NutriBullet.\"\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\t\"@type\": \"HowToStep\",\n\t\t\t\t\t\"text\": \"Blend on high for 60 seconds until smooth and creamy.\"\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\t\"@type\": \"HowToStep\",\n\t\t\t\t\t\"text\": \"Taste and adjust sweetness with a date if needed.\"\n\t\t\t\t}\n\t\t\t],\n\t\t\t\"nutrition\": {\n\t\t\t\t\"@type\": \"NutritionInformation\",\n\t\t\t\t\"calories\": \"180 kcal\",\n\t\t\t\t\"proteinContent\": \"5 g\",\n\t\t\t\t\"fatContent\": \"2.5 g\",\n\t\t\t\t\"carbohydrateContent\": \"32 g\"\n\t\t\t}\n\t\t}\n\t</script>\n</p>\n<h1>Power Pepper Recovery</h1>\n<p class=\"note\">A nutrient-rich, <span class=\"highlight\">anti-inflammatory powerhouse</span> smoothie for post-hike revival.</p>\n<h2 class=\"section-title\">Ingredients</h2>\n<ul>\n<li>100g frozen mixed peppers</li>\n<li>1 frozen banana</li>\n<li>75g frozen mango or pineapple</li>\n<li>1 cube frozen spinach</li>\n<li>200ml cooled nettle tea</li>\n<li>1 tsp hemp protein powder</li>\n<li>½ tsp cinnamon</li>\n<li>1 tsp cacao powder</li>\n<li><em>Optional:</em> 1 medjool date (if you want more sweetness)</li>\n</ul>\n<h2 class=\"section-title\">Instructions</h2>\n<ul>\n<li>Brew nettle tea and allow it to cool completely.</li>\n<li>Combine all ingredients in your NutriBullet or high-speed blender.</li>\n<li>Blend on high for 60 seconds until smooth and creamy.</li>\n<li>Taste and adjust sweetness by adding the date if needed.</li>\n</ul>\n<h2 class=\"section-title\">Nutritional Highlights</h2>\n<ul>\n<li><strong>Calories:</strong> ~180 kcal</li>\n<li><strong>Protein:</strong> 5g</li>\n<li><strong>Carbohydrates:</strong> 32g</li>\n<li><strong>Fat:</strong> 2.5g</li>\n<li><strong>Micros:</strong> Vitamin C, Iron, Magnesium, Potassium, Beta-Carotene</li>\n<li><strong>Actions:</strong> Antioxidant, Anti-inflammatory, Muscle Recovery</li>\n</ul>",
-            "author": {
-                "name": "Art ifishal"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-07T16:02:36+01:00",
-            "date_modified": "2025-06-07T16:02:36+01:00"
-        },
-        {
-            "id": "https://sponsoredby.github.io/smoothies-juice/test.html",
-            "url": "https://sponsoredby.github.io/smoothies-juice/test.html",
-            "title": "TEST",
-            "content_html": "<p>TEST AI PUBLII JUICE SOOTHIE</p>",
-            "author": {
-                "name": "Art ifishal"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-07T15:28:24+01:00",
-            "date_modified": "2025-06-07T15:28:24+01:00"
-        }
     ]
 }
