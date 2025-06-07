@@ -3,12 +3,32 @@
     <title>Smoothies and Juices</title>
     <link href="https://sponsoredby.github.io/smoothies-juice/feed.xml" rel="self" />
     <link href="https://sponsoredby.github.io/smoothies-juice" />
-    <updated>2025-06-07T16:02:36+01:00</updated>
+    <updated>2025-06-07T16:17:07+01:00</updated>
     <author>
         <name>Art ifishal</name>
     </author>
     <id>https://sponsoredby.github.io/smoothies-juice</id>
 
+    <entry>
+        <title>Anti-Flame Forest Smoothie</title>
+        <author>
+            <name>Art ifishal</name>
+        </author>
+        <link href="https://sponsoredby.github.io/smoothies-juice/anti-flame-forest-smoothie.html"/>
+        <id>https://sponsoredby.github.io/smoothies-juice/anti-flame-forest-smoothie.html</id>
+
+        <updated>2025-06-07T16:17:07+01:00</updated>
+            <summary>
+                <![CDATA[
+                    &lt;!DOCTYPE html&gt; &lt;html lang="en"&gt; &lt;head&gt; &lt;meta charset="UTF-8"&gt; &lt;title&gt;Anti-Flame Forest Smoothie&lt;/title&gt; &lt;style&gt; body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; line-height: 1.6; background-color: #f9f9f9; color: #333; padding: 2rem; max-width: 800px; margin: auto; } h1 { font-size: 2.5rem; color: #2c3e50; border-bottom: 2px solid #8e44ad;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>&lt;!DOCTYPE html&gt;<br>&lt;html lang="en"&gt;<br>&lt;head&gt;<br>  &lt;meta charset="UTF-8"&gt;<br>  &lt;title&gt;Anti-Flame Forest Smoothie&lt;/title&gt;<br>  &lt;style&gt;<br>    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; line-height: 1.6; background-color: #f9f9f9; color: #333; padding: 2rem; max-width: 800px; margin: auto; }<br>    h1 { font-size: 2.5rem; color: #2c3e50; border-bottom: 2px solid #8e44ad; }<br>    h2 { font-size: 1.75rem; color: #16a085; margin-top: 2rem; }<br>    ul, ol { background-color: #ffffff; padding: 1rem; border-left: 4px solid #3498db; border-radius: 8px; }<br>    li { margin-bottom: 0.5rem; }<br>    p { background-color: #ecf0f1; padding: 1rem; border-radius: 6px; }<br>    .notes { background-color: #fff3cd; border-left: 5px solid #ffc107; }<br>  &lt;/style&gt;<br>  &lt;script type="application/ld+json"&gt;<br>  {<br>    "@context": "https://schema.org",<br>    "@type": "Recipe",<br>    "name": "Anti-Flame Forest Smoothie",<br>    "description": "Antioxidant-rich smoothie to reduce inflammation and repair oxidative stress post-hike.",<br>    "recipeCategory": "Smoothie",<br>    "recipeCuisine": "Healthy",<br>    "keywords": "anti-inflammatory, smoothie, post-workout",<br>    "nutrition": {<br>      "@type": "NutritionInformation",<br>      "calories": "150 kcal",<br>      "proteinContent": "4g",<br>      "carbohydrateContent": "28g",<br>      "fatContent": "1g"<br>    },<br>    "recipeIngredient": [<br>      "100g frozen blueberries",<br>      "75g frozen cherries",<br>      "1 tsp grated fresh ginger or ½ tsp powdered",<br>      "1 tsp turmeric (with a pinch of black pepper for absorption)",<br>      "1 tsp Critical Greens Powder",<br>      "200ml cold elderflower tea (brewed &amp; cooled)",<br>      "1 cube frozen spinach",<br>      "Optional: 1 tsp honey or 1 date (if needed)"<br>    ],<br>    "recipeInstructions": [<br>      {<br>        "@type": "HowToStep",<br>        "text": "Add all ingredients to your NutriBullet."<br>      },<br>      {<br>        "@type": "HowToStep",<br>        "text": "Blend on high for 45 seconds until rich and smooth."<br>      },<br>      {<br>        "@type": "HowToStep",<br>        "text": "Taste and adjust with a date or more tea if needed."<br>      },<br>      {<br>        "@type": "HowToStep",<br>        "text": "Enjoy chilled post-workout or post-nature wander."<br>      }<br>    ],<br>    "recipeNotes": "Blueberries + cherries provide polyphenols and anthocyanins to combat oxidative stress. Turmeric and ginger reduce inflammation, especially helpful post-exercise."<br>  }<br>  &lt;/script&gt;<br>&lt;/head&gt;<br>&lt;body&gt;<br>  &lt;!-- Original content remains unchanged --&gt;<br>  &lt;h1&gt;Anti-Flame Forest Smoothie&lt;/h1&gt;<br>  &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Smoothie (Antioxidant + Anti-inflammatory heavy)&lt;/p&gt;<br>  &lt;p&gt;&lt;strong&gt;Main Goals:&lt;/strong&gt; Reduce inflammation, repair oxidative stress, protect cells post-hike&lt;/p&gt;<br>  &lt;!-- Rest of the original HTML content --&gt;<br>&lt;/body&gt;<br>&lt;/html&gt;</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title> Recipe 1: Power Pepper Recovery</title>
         <author>
