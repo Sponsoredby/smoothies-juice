@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Smoothies and Juices</title>
-    <link href="https://github.com/Sponsoredby/smoothies-juice/feed.xml" rel="self" />
-    <link href="https://github.com/Sponsoredby/smoothies-juice" />
+    <link href="https://sponsoredby.github.io/smoothies-juice/feed.xml" rel="self" />
+    <link href="https://sponsoredby.github.io/smoothies-juice" />
     <updated>2025-06-07T16:02:36+01:00</updated>
     <author>
         <name>Art ifishal</name>
     </author>
-    <id>https://github.com/Sponsoredby/smoothies-juice</id>
+    <id>https://sponsoredby.github.io/smoothies-juice</id>
 
     <entry>
         <title> Recipe 1: Power Pepper Recovery</title>
         <author>
             <name>Art ifishal</name>
         </author>
-        <link href="https://github.com/Sponsoredby/smoothies-juice/recipe-1-power-pepper-recovery.html"/>
-        <id>https://github.com/Sponsoredby/smoothies-juice/recipe-1-power-pepper-recovery.html</id>
+        <link href="https://sponsoredby.github.io/smoothies-juice/recipe-1-power-pepper-recovery.html"/>
+        <id>https://sponsoredby.github.io/smoothies-juice/recipe-1-power-pepper-recovery.html</id>
 
         <updated>2025-06-07T16:02:36+01:00</updated>
             <summary>
@@ -118,8 +118,8 @@
         <author>
             <name>Art ifishal</name>
         </author>
-        <link href="https://github.com/Sponsoredby/smoothies-juice/test.html"/>
-        <id>https://github.com/Sponsoredby/smoothies-juice/test.html</id>
+        <link href="https://sponsoredby.github.io/smoothies-juice/test.html"/>
+        <id>https://sponsoredby.github.io/smoothies-juice/test.html</id>
 
         <updated>2025-06-07T15:28:24+01:00</updated>
             <summary>
