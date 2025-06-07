@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Smoothies and Juices</title>
+    <link href="https://github.com/Sponsoredby/smoothies-juice/feed.xml" rel="self" />
+    <link href="https://github.com/Sponsoredby/smoothies-juice" />
+    <updated>2025-06-07T15:28:24+01:00</updated>
+    <author>
+        <name>Art ifishal</name>
+    </author>
+    <id>https://github.com/Sponsoredby/smoothies-juice</id>
+
+    <entry>
+        <title>TEST</title>
+        <author>
+            <name>Art ifishal</name>
+        </author>
+        <link href="https://github.com/Sponsoredby/smoothies-juice/test.html"/>
+        <id>https://github.com/Sponsoredby/smoothies-juice/test.html</id>
+
+        <updated>2025-06-07T15:28:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                    TEST AI PUBLII JUICE SOOTHIE
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>TEST AI PUBLII JUICE SOOTHIE</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

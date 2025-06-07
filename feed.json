@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Smoothies and Juices",
+    "description": "",
+    "home_page_url": "https://github.com/Sponsoredby/smoothies-juice",
+    "feed_url": "https://github.com/Sponsoredby/smoothies-juice/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Art ifishal"
+    },
+    "items": [
+        {
+            "id": "https://github.com/Sponsoredby/smoothies-juice/test.html",
+            "url": "https://github.com/Sponsoredby/smoothies-juice/test.html",
+            "title": "TEST",
+            "summary": "TEST AI PUBLII JUICE SOOTHIE",
+            "content_html": "<p>TEST AI PUBLII JUICE SOOTHIE</p>",
+            "author": {
+                "name": "Art ifishal"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-07T15:28:24+01:00",
+            "date_modified": "2025-06-07T15:28:24+01:00"
+        }
+    ]
+}
